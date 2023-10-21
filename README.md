@@ -5,8 +5,8 @@
 [![Git](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://viniciuslacerd4.github.io/portifolio/index.html)](https://viniciuslacerd4.github.io/portifolio/index.html)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuslacerd4b/)
 
-![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslacerd4&show_icons=true&theme=radical)
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif">
+![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslacerd4&show_icons=true&theme=tokyonight)
+<img align="right" alt="Coding" width="400" src="https://www.scaler.com/topics/stories/top-5-languages-for-competitive-programming/assets/3.gif">
 
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block">
