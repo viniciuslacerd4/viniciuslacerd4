@@ -5,8 +5,8 @@
 [![Git](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://viniciuslacerd4.github.io/portifolio/index.html)](https://viniciuslacerd4.github.io/portifolio/index.html)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuslacerd4b/)
 
-![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslacerd4&show_icons=true&theme=tokyonight&locale=pt-br)
-<img align="right" alt="Coding" width="400" src="https://www.scaler.com/topics/stories/top-5-languages-for-competitive-programming/assets/3.gif">
+![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslacerd4&show_icons=true&theme=github_dark_dimmed&locale=pt-br)
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/bNrNYDjW/PYTHON.png">
 
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block">
@@ -21,4 +21,6 @@
 <div style="display: inline_block">
 <h3>“Qualquer tecnologia suficientemente avançada é equivalente à mágica”.</h3>
 <p>— Arthur C. Clarke</p>
-</div>
+</div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslacerd4&layout=compact&theme=github_dark_dimmed&locale=pt-br)
